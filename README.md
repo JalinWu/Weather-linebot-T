@@ -28,5 +28,5 @@ $ npm run dev
 $ ./ngrok http 3000
 
 # windows
-$ .\\ngrok-win http 3000
+$ .\ngrok-win.exe http 3000
 ``` 
